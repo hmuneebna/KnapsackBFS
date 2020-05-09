@@ -1,0 +1,3 @@
+Task #2 
+
+In this task, the program will ask the user to input the knapsack capacity that they wish to solve. The user will then read a series of integers from the input file where the profits are inputted in the first row and the weights are inputted in the second row. The format for each row is integer, space then integer, and the integers must be positive. The input file must be no more than 2 lines, because the program will not read past that. The program will then output the visited nodes, and the bounds, until it reaches the max profit. All in all, the profits are first row, and the weights are the second row of the text file. 
